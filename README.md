@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="banner.png">
+    <img width="100" src="assets/banner.png">
 </p>
 
 
@@ -12,8 +12,8 @@
 
 <p align="center">
 <img 
-    src="divisória de página para novo capítulo.png"
-    width="400"  
+    src="assets/divisória de página para novo capítulo.png"
+    width="600"  
 />
 </p>
 
