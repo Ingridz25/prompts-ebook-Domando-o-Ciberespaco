@@ -56,7 +56,7 @@ BingAI：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize sua ferramenta de edição de documentos preferida para diagramação.
 
 ## 👨‍💻 Autora
 
@@ -73,9 +73,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/ingridccarvalho/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+   
+&nbsp;&nbsp;</p>
 </p>
 <br/><br/>
 <p>
